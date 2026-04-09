@@ -4,7 +4,7 @@
 
 This repository contains the code and data for our paper **"RepoDebug: Repository-Level Multi-Task and Multi-Language Debugging Evaluation of Large Language Models**, which has been accepted to [EMNLP Findings 2025](https://2025.aclweb.org/).
 
-<img src="asset/data_construct.jpg" alt="data_construction" style="max-width:30%;">
+<img src="asset/data_construct.jpg" alt="data_construction">
 
 ## 📄 Citation
 If you use our work, please cite:
